@@ -36,3 +36,6 @@ body {
 text-decoration: none;
 display: block;
 }
+.botao_segundario{
+  background-color: transparent;
+}
