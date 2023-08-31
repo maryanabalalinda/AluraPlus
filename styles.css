@@ -38,4 +38,6 @@ display: block;
 }
 .botao_segundario{
   background-color: transparent;
+  border: #FFFFFF 2px solid ;
+  border: 2px solid var(--branco-principal);
 }
