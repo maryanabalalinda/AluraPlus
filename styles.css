@@ -18,13 +18,16 @@ body {
 .principal {
   background-image: url("img/Background.png");
   background-repeat: no-repeat;
-  background-size: contain; <<
+  background-size: contain; 
 }
 
 .container {
   height: 100vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
   /* background-color: red; */
 }
+
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 5px;
