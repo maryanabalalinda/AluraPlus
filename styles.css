@@ -87,3 +87,19 @@ display: block;
 .secundario__imagem {
   width: 80%;
 }
+
+.descricao_titulo{
+font-weight: 700;
+font-size: 48px;
+color: #FFFFFF;
+margin: bottom 0.1em;
+}
+
+.descricao_texto{
+  color: #C0C0C0;
+  line-height:  150%;
+}
+
+.container_descricao{
+  padding: 2em;
+}
