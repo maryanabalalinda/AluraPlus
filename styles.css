@@ -78,3 +78,8 @@ body {
 .secundario__imagem {
   width: 80%;
 }
+
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
