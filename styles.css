@@ -17,10 +17,10 @@ body {
 }
 
 .principal {
-  background-image: url("img/Background.png");
+  background-image: url("https://omunicipio.com.br/wp-content/uploads/2018/08/capa-insatiable.jpg");
   background-repeat: no-repeat;
   background-size: contain; 
-}
+} 
 
 .container {
   height: 100vh;
