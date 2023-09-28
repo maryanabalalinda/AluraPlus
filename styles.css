@@ -83,3 +83,20 @@ body {
   display: inline-block;
   margin-top: 1em;
 }
+
+.descricao__titulo{
+  font-weight: 700;
+  font-size: 48px;
+  color: #FFFFFF;
+  margin-bottom:0.1em;
+  }
+  .descricao__texto{
+  color: #C0C0C0;
+  line-height: 150%;
+  }
+  .container__descricao {
+  padding: 2em;
+  }
+  .titulo2{
+  color: crimson;
+  }
